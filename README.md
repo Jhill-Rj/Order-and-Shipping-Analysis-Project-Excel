@@ -6,8 +6,8 @@ The objective of the Order and Shipping Dashboard Project is to develop a compre
 *	Utilizing advanced analytics techniques and visualization tools, I provided actionable recommendations to streamline inventory management, optimize procurement processes, mitigate supply chain risks, and enhance overall operational resilience. 
 
 ## Upload Details
-* **Order and shipping dashboard** - Excel File - Complete Analysis of the Data set
 * **Order and Shipping Analysis Project Report** - PDF File - A Presentation on the complete analysis
+* **Order and shipping dashboard** - Excel File - Complete Analysis of the Data set
 * **Project Description** - PDF File - Project description and details
 * **Project** - PNG file - Screenshot of Dashboard for Reference
 
